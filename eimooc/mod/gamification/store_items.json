@@ -1,0 +1,30 @@
+{"store_items": [
+	{
+		"id": "final-score",
+		"name": "Nota final",
+		"description": "Obtén un punto extra en la nota final de la asignatura (este artículo puede ser adquirido hasta un máximo de 5 veces)",
+		"icon": "final-score.png",
+		"order": 0,
+		"points":150,
+		"rebuy": true,
+		"max_purchases": 5
+	},
+	{
+		"id": "custom-river",
+		"name": "Notificaciones personalizadas",
+		"description": "Podrás personalizar las notificaciones que aparecen en la página de \"Actividad\" para resaltar las tuyas de un modo especial",
+		"icon": "custom-river.png",
+		"order": 1,
+		"points":90,
+		"rebuy":false
+	},
+	{
+		"id": "custom-profile-img",
+		"name": "Imagen en perfil",
+		"description": "Tendrás la posibilidad de añadir una imagen personalizada en tu perfil de usuario para que la vea cualquiera que lo visite",
+		"icon": "custom-profile.png",
+		"order": 1,
+		"points":200,
+		"rebuy":false
+	}
+]}

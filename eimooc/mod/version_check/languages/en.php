@@ -1,0 +1,30 @@
+<?php
+$localized = array(
+    'admin:administer_utilities:version_check' => 'Version Check',
+    'version_check:settings:check_now' => 'Check for New Versions Now',
+    'version_check:settings:versions_server' => 'Open the Versions Server',
+	'version_check:settings:user_guide' => 'Read the User\'s Guide',
+	'version_check:settings:general' => 'General Settings',
+	'version_check:settings:disabled' => 'Disable Version Checks?',
+    'version_check:settings:disabled_explain' => 'If set to to <b style="color:green">YES</b>, version checks will not be carried out for any plugin at all.',
+    'version_check:settings:url' => 'Version Check URL',
+    'version_check:settings:url_explain' => 'Do not change this unless you have your own versions server.',
+    'version_check:settings:freq' => 'Check Frequency',
+    'version_check:settings:freq_explain' => 'How often should this plugin check for new versions?',
+    'version_check:settings:freq_global' => 'Use global setting',
+    'version_check:settings:freq_everytime' => 'Every time (debug only)',
+    'version_check:settings:freq_daily' => 'Daily',
+    'version_check:settings:freq_weekly' => 'Weekly',
+    'version_check:settings:freq_monthly' => 'Monthly',
+	'version_check:settings:yes' => 'YES',
+	'version_check:settings:no' => 'NO',
+	'version_check:info:no_updates' => 'There are no registered released versions for <b>%s</b> (\'%s\') yet.',
+	'version_check:info:up_to_date' => 'Your version of <b>%s</b> (\'%s\') is up-to-date.',
+	'version_check:info:update_avail' => 'Version <b>%3$s</b> of <b>%1$s</b> (\'%2$s\') was released %4$s.',
+	'version_check:info:current' => 'You are currently running version %s.',
+	'version_check:info:release_notes' => 'Release Notes',
+	'version_check:info:link_button' => 'Open the Download Page for %s',
+	'version_check:system_message' => 'A new version of %s is available. <a href="%s" target="_blank">Click here</a> to go to the plugin\'s download page or open the <a href="%s" target="_blank">Version Check plugin page</a>.',
+	'version_check:list:noupdates' => 'There are no updates for your plugins at the moment.'
+);
+add_translation('en', $localized);

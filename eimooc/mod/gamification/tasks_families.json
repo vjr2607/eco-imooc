@@ -1,0 +1,37 @@
+{"families": [
+	{
+		"id": "ssoo",
+		"name": "Sistemas operativos",
+		"description": "Tareas relacionadas con la gestión del sistema operativo",
+		"icon": "ssoo.png",
+		"order": 0
+	},
+	{
+		"id": "word",
+		"name": "Procesadores de texto - Word",
+		"description": "Tareas relacionadas con procesadores de texto",
+		"icon": "word.png",
+		"order": 1
+	},
+	{
+		"id": "excel",
+		"name": "Hojas de cálculo - Excel",
+		"description": "Tareas relacionadas con hojas de cálculo",
+		"icon": "excel.png",
+		"order": 2
+	},
+	{
+		"id": "powerpoint",
+		"name": "Presentación de diapositivas - Powerpoint",
+		"description": "Tareas relacionadas con presentaciones de diapositivas",
+		"icon": "powerpoint.png",
+		"order": 3
+	},
+	{
+		"id": "access",
+		"name": "Bases de datos - Access",
+		"description": "Tareas relacionadas con la gestión del sistema operativo",
+		"icon": "access.png",
+		"order": 4
+	}
+]}

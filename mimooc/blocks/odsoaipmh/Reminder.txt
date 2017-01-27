@@ -1,0 +1,1 @@
+zip   -x "*/\.*" -x "*~"  -r odsoaipmh.zip odsoaipmh/

@@ -1,0 +1,106 @@
+{"achievements": [
+	{
+		"id": "profile-update",
+		"name": "iPerfil",
+		"description": "Atribuído a todo os que completarem o seu perfil durante o módulo de ambientação",
+		"icon": "icon02.png",
+		"order": 0,
+		"points":15
+	},
+	{
+		"id": "imageprofile-update",
+		"name": "iPic",
+		"description": "Atribuído a todo os que carregarem a sua foto durante o módulo de ambientação",
+		"icon": "avatar.png",
+		"order": 1,
+		"points":15
+	},
+	{
+		"id": "first-blog",
+		"name": "iBlog",
+		"description": "Atribuído a todos os que escreverem pelo menos 1 post no seu blogue durante o módulo de ambientação",
+		"icon": "cotilla02.png",
+		"order": 10,
+		"points":15
+	},
+	{
+		"id": "bootcamp",
+		"name": "iPotencial",
+		"description": "Atribuído a todo os que completarem o iPerfil, iPic e o iBlog durante o módulo de ambientação",
+		"icon": "welcome.png",
+		"order": 11,
+		"points":15
+	},
+	{
+		"id": "commentator",
+		"name": "iComentador",
+		"description": "Atribuído a todos os que escreverem pelo menos 15 posts no seu blogue",
+		"icon": "clippy.png",
+		"order": 12,
+		"points":15
+	},
+	{
+		"id": "collaborator",
+		"name": "iColaborador",
+		"description": "Atribuído a todos os que colocarem pelo menos 15 recursos nas suas bookmarks",
+		"icon": "questions-made.png",
+		"order": 2,
+		"points":15
+	},
+	{
+		"id": "tweets-done",
+		"name": "iTweeter",
+		"description": "Atribuído a todos os que escreverem pelo menos 50 mensagens curtas",
+		"icon": "tweets.png",
+		"order": 3,
+		"points":15
+	},
+	{
+		"id": "comments-done",
+		"name": "iFilósofo",
+		"description": "Atribuído a todos os que escreverem pelo menos 25 comentários aos posts de outros participantes",
+		"icon": "comments.png",
+		"order": 4,
+		"points":15
+	},
+	{
+		"id": "friends-made",
+		"name": "iSociável",
+		"description": "Atribuído a todos os que seguem pelo menos 25 outros participantes",
+		"icon": "friends-made.png",
+		"order": 5,
+		"points":15
+	},
+	{
+		"id": "friends-received",
+		"name": "iPopular",
+		"description": "Atribuído a todos os que são seguidos por pelo menos 25 outros participantes",
+		"icon": "friends-received.png",
+		"order": 6,
+		"points":15
+	},
+	{
+		"id": "likes-received",
+		"name": "iEstrela",
+		"description": "Atribuído a todos os que recebam pelo menos 25 likes num dos seus posts",
+		"icon": "likes.png",
+		"order": 7,
+		"points":15
+	},
+	{
+		"id": "comments-received",
+		"name": "iReferência",
+		"description": "Atribuído a todos os que recebam pelo menos 5 respostas de outros participantes a um dos seus posts",
+		"icon": "questions-answered.png",
+		"order": 8,
+		"points":15
+	},
+	{
+		"id": "terminator",
+		"name": "iFator",
+		"description": "Atribuído a todos os que obtiverem os anteriores crachás",
+		"icon": "terminator.png",
+		"order": 9,
+		"points":150
+	}
+]}
